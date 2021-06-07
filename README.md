@@ -1,4 +1,4 @@
-# BACKEND LEICESTER
+# BACKEND COLETKIA
 <p>Crear archivo .env con los siguientes datos:</br>
 {</br>
 DATABASE_HOST=(host) </br>
